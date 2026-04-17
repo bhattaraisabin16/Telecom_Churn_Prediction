@@ -2,7 +2,7 @@
 
 Logistic Regression model predicting customer churn (AUC: 0.857)
 
-Model Results: model_results.png
+![Model Results](model_results.png)
 
 # 🎯 Business Problem
 Predict which telecom customers will churn to prioritize retention offers.
