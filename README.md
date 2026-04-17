@@ -32,3 +32,5 @@ Predict which telecom customers will churn to prioritize retention offers.
 Python | scikit-learn | pandas | matplotlib | seaborn
 
 
+[![Stars](https://img.shields.io/github/stars/bhattaraisabin16/Telecom_Churn_Prediction)](https://github.com/bhattaraisabin16/Telecom_Churn_Prediction)
+**Built by Sabin Bhattarai** | [LinkedIn](https://linkedin.com/in/bhattaraisabin16)
